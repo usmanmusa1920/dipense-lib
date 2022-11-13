@@ -39,6 +39,7 @@ setup(
   # The list of packages(directories) for your library
   packages=find_packages(), # OR packages=['dipense'] 
   
+  # If your package is a single module, use this instead of 'packages':
   # py_modules=[''] # list of files (modules) that are not in any directory (at the root dir)
   # the libraries it depends on
   
